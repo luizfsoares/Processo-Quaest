@@ -1,6 +1,7 @@
 # Processo-Quaest
 
-### Objetivo: Este repositório tem por objetivo a realização da avaliação técnica proposto pela Quaest em seu processo seletivo para estagiário em Ciência de Dados. A avaliação é composta por três questões a respeito de uma base de dados composta por respostas de survay de eleitores.
+### Objetivo: 
+Este repositório tem por objetivo a realização da avaliação técnica proposto pela Quaest em seu processo seletivo para estagiário em Ciência de Dados. A avaliação é composta por três questões a respeito de uma base de dados composta por respostas de survay de eleitores.
 
 <br>
 Todas as explicações e códigos detalhados estarão dentro do notebook ''. É só abrir e conferir
