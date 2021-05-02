@@ -4,7 +4,7 @@
 Este repositório tem por objetivo a realização da avaliação técnica proposto pela Quaest em seu processo seletivo para estagiário em Ciência de Dados. A avaliação é composta por três questões a respeito de uma base de dados composta por respostas de survay de eleitores.
 
 <br>
-Todas as explicações e códigos detalhados estarão dentro do notebook ''. É só abrir e conferir
+Todas as explicações e códigos detalhados estarão dentro do notebook 'analise.ipynb', neste repositório. É só abrir e conferir!
 Abaixo terá um resumo das respostas das questões, apenas no formato de texto/gráficos.
  
 <br>
