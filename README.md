@@ -11,7 +11,7 @@ Abaixo terá um resumo das respostas das questões, apenas no formato de texto/g
 ### Questão 1 - Qual o % de intenção de voto para cada candidato?
 ### Resposta: <br>
 Utilizando o data['voto1'].value_counts() é possível ver os valores únicos que este atributo pode assumir e suas respectivas quantidades. <br>
-É possível ver a existência de 14 candidatos e dividindo suas respectivas intenções pela quantidade total de registros, temos: <br>
+É possível ver a existência de 14 candidatos e dividindo suas respectivas intenções pela quantidade total de registros, temos: <br> <br>
 Candidato 1 = 42/ 1000 = 0,042% = 4.2% <br>
 Candidato 2 = 523/ 1000 = 0,523% = 52.3% <br>
 Candidato 3 = 16/ 1000 = 0,016% = 1.6% <br>
