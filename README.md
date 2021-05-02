@@ -9,7 +9,7 @@ Abaixo terá um resumo das respostas das questões, apenas no formato de texto/g
 <br>
 
 ### Questão 1 - Qual o % de intenção de voto para cada candidato?
-### Resposta: 
+### Resposta: <br>
 Utilizando o data['voto1'].value_counts() é possível ver os valores únicos que este atributo pode assumir e suas respectivas quantidades. <br>
 É possível ver a existência de 14 candidatos e dividindo suas respectivas intenções pela quantidade total de registros, temos: <br>
 Candidato 1 = 42/ 1000 = 0,042% = 4.2% <br>
@@ -28,8 +28,11 @@ Candidato 13 = 3/ 1000 = 0,003% = 0.3% <br>
 Candidato 14 = 6/ 1000 = 0,006% = 0.6% <br>
 
 ### Questão 2 - Qual o candidato com maior % de intenção de voto entre as MULHERES?
-### Resposta: 
+### Resposta: <br>
+
+O Candidato 2 possui a maior porcentagem de intenção de votos entre as mulheres, o que corresponde a mais de 54% da intenção dos votos delas
 
 
 ### Questão 3 - O candidato que lidera as intenções de voto é o candidato de situação ou oposição ao governo ?
-### Resposta: 
+### Resposta: <br>
+Considerando apenas as 523 pessoas que tem intenção de voto no Candidato 2 (é ele quem lidera), é perceptível que a avaliação que elas fizeram ao governo é extremamente positiva, visto que mais de 86% deles disseram que é "boa/ótima" e se incluir "regular positiva" somatiza quase toda a totalidade. Dessa forma, se eles avaliaram bem o governo e a intenção deles é realizar o voto no Candidato 2, então é muito provável que o mesmo seja o candidato de situação.
