@@ -25,7 +25,11 @@ Candidato 10 = 20/ 1000 = 0,020% = 2.0% <br>
 Candidato 11 = 3/ 1000 = 0,003% = 0.3% <br>
 Candidato 12 = 6/ 1000 = 0,006% = 0.6% <br>
 Candidato 13 = 3/ 1000 = 0,003% = 0.3% <br>
-Candidato 14 = 6/ 1000 = 0,006% = 0.6% <br>
+Candidato 14 = 6/ 1000 = 0,006% = 0.6% <br> <br>
+
+<p align="center"> 
+<img src="./prints/question1.png" >
+</p>
 
 ### Questão 2 - Qual o candidato com maior % de intenção de voto entre as MULHERES?
 ### Resposta: <br>
@@ -35,4 +39,8 @@ O Candidato 2 possui a maior porcentagem de intenção de votos entre as mulhere
 
 ### Questão 3 - O candidato que lidera as intenções de voto é o candidato de situação ou oposição ao governo ?
 ### Resposta: <br>
-Considerando apenas as 523 pessoas que tem intenção de voto no Candidato 2 (é ele quem lidera), é perceptível que a avaliação que elas fizeram ao governo é extremamente positiva, visto que mais de 86% deles disseram que é "boa/ótima" e se incluir "regular positiva" somatiza quase toda a totalidade. Dessa forma, se eles avaliaram bem o governo e a intenção deles é realizar o voto no Candidato 2, então é muito provável que o mesmo seja o candidato de situação.
+Considerando apenas as 523 pessoas que tem intenção de voto no Candidato 2 (é ele quem lidera), é perceptível que a avaliação que elas fizeram ao governo é extremamente positiva, visto que mais de 86% deles disseram que é "boa/ótima" e se incluir "regular positiva" somatiza quase toda a totalidade. Dessa forma, se eles avaliaram bem o governo e a intenção deles é realizar o voto no Candidato 2, então é muito provável que o mesmo seja o candidato de situação. <br><br>
+
+<p align="center"> 
+<img src="./prints/question3.png" >
+</p>
